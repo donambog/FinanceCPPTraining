@@ -2,13 +2,13 @@
 
 I've set myself the goal of upgrading my knowledge in C++ with a focus on low-latency finance and High-Frequency Trading (HFT). I'm following this comprehensive course and training program:
 
-📅 **Quant C++ Schedule**
-✅ **Module 1 (2 weeks)** → Advanced C++ & Multithreading
-✅ **Module 2 (2 weeks)** → Algorithms & Data Structures
-✅ **Module 3 (3 weeks)** → Financial Mathematics & Options Pricing
-✅ **Module 4 (2 weeks)** → Linux System Optimization for HFT
-✅ **Module 5 (1 month)** → Personal Project: Order Book in C++
-
+📅 **Quant C++ Schedule** 
+✅ **Module 1 (2 weeks)** → Advanced C++ & Multithreading  
+✅ **Module 2 (2 weeks)** → Algorithms & Data Structures 
+✅ **Module 3 (3 weeks)** → Financial Mathematics & Options Pricing  
+✅ **Module 4 (2 weeks)** → Linux System Optimization for HFT  
+✅ **Module 5 (1 month)** → Personal Project: Order Book in C++  
+  
 📌 **Total:** 11 weeks (~3 months)
 
 ### Details of Modules 1 and 2
