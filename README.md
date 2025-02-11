@@ -1,7 +1,7 @@
 # FinanceCPPTraining
 
 I've set myself the goal of upgrading my knowledge in C++ with a focus on low-latency finance and High-Frequency Trading (HFT). I'm following this comprehensive course and training program  
-Linux environment : In case you need a Linux environment, you can download this Dockerfile project to set up Linux with tools to compile and run C and C++: git@github.com:donambog/Linux_Alpine_C_CPP_Dev.git
+Linux environment : In case you need a Linux environment, you can download this Dockerfile project to set up Linux Alpine with tools to compile and run C and C++: git@github.com:donambog/Linux_Alpine_C_CPP_Dev.git
 
 📅 **Quant C++ Schedule**  
 ✅ **Module 1 (2 weeks)** → Advanced C++ & Multithreading  
